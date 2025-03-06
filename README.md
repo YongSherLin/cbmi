@@ -1,2 +1,0 @@
-# cbmi
-CBM-I Experiment
